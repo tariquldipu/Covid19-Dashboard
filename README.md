@@ -21,4 +21,4 @@ This *covid19.csv* file is used as the source for my Tableau dashboard. The inte
 The dashboard provides data up to November 07, 2022. The dashboard features an interactive world map with corresponding infos for confirmed, deaths, ongoing, recoveries cases. Clicking on a specific country from the world map, will show the Total Confirmed, Infection Rate, Recovery Rate, Total Deaths, Fatality Rate etc. information on the dashboard.
 
 
-#python #tableau #numpy #pandas # image #color_detection #python_project #dashboard
+#python #tableau #numpy #pandas # image #python_project #dashboard
