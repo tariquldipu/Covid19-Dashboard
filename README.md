@@ -2,7 +2,7 @@
 
 Here, I've tried to create an interactive Covid-19 dashboard using Python and Tableau.
 
-The raw covid data was collected from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Github link to the data repository- https://github.com/CSSEGISandData/COVID-19
+The raw covid data was collected from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. Github link to the data repository- https://github.com/CSSEGISandData/COVID-19 .
 At the time of making this dashboard, the dataset has data up to November 07, 2022.
 
  - **Python Version-** 3.9
