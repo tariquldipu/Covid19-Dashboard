@@ -10,7 +10,7 @@ At the time of making this dashboard, the dataset has data up to November 07, 20
  - **Application-** Jupyter Notebook & Tableau
 
 
-The CSSE Covid-19 dataset consists of three tables about daily confirmed, deaths and recoveries cases per country/region. Each table presents the data in wide (crosstab) format, with each day in a column. The dataset is cleansed and preproccessed using python inside a jupyter notebook (Covid_19_Preprocessing_Data.ipynb). The dataset is transformed from wide to long format using the Pandas melt function (for usage suitability inside Tableau).
+The CSSE Covid-19 dataset consists of three tables about daily confirmed, deaths and recoveries cases per country/region. Each table presents the data in wide (crosstab) format, with each day in a column. The dataset is cleansed and preproccessed using python inside a jupyter notebook (*Covid_19_Preprocessing_Data.ipynb*). The dataset is transformed from wide to long format using the Pandas melt function (for usage suitability inside Tableau).
 
 
 The refined dataset is later combined with population data (dataset collected from- https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020) to create the confirmed / population data. In the end, the refined and processed data is saved as a new dataset as *covid19.csv* file.
