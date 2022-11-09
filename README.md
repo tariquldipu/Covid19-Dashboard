@@ -16,7 +16,7 @@ The CSSE Covid-19 dataset consists of three tables about daily confirmed, deaths
 The refined dataset is later combined with population data (dataset collected from- https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020) to create the confirmed / population data. In the end, the refined and processed data is saved as a new dataset as *covid19.csv* file.
 
 
-This *covid19.csv* file is used as the source for my Tableau dashboard. The interactive Tableau dashboard file is provided in the repository as *covid19.twbx*. Also a screenshot of the dashboard is provided here (*Dashboard.png*). ![Covid19 Dashboard](https://github.com/tariquldipu/Image-Color-Detection/blob/main/Saarschleife.jpg)
+This *covid19.csv* file is used as the source for my Tableau dashboard. The interactive Tableau dashboard file is provided in the repository as *covid19.twbx*. Also a screenshot of the dashboard is provided here (*Dashboard.png*). ![Covid19 Dashboard](https://github.com/tariquldipu/Covid19-Dashboard/blob/main/Dashboard.png)
 
 The dashboard provides data up to November 07, 2022. The dashboard features an interactive world map with corresponding infos for confirmed, deaths, ongoing, recoveries cases. Clicking on a specific country from the world map, will show the Total Confirmed, Infection Rate, Recovery Rate, Total Deaths, Fatality Rate etc. information on the dashboard.
 
